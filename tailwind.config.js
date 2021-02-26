@@ -19,7 +19,8 @@ module.exports = {
         "text-1": "var(--text-1)",
         "text-2": "var(--text-2)",
         "text-3": "var(--text-3)",
-        "text-4": "var(--text-4)"
+        "text-4": "var(--text-4)",
+        "text-5": "var(--text-5)"
       }
     }
   },
