@@ -1,6 +1,6 @@
 <template>
   <main>
-    <section class="mt-40 flex flex-col justify-center">
+    <section class="mt-32 flex flex-col justify-center">
       <h1 class="text-8xl font-bold text-center">Hello, I'm Yetendra</h1>
       <h2 class="mt-10 text-5xl text-center leading-tight">
         I develop frontend and backend web-applications using

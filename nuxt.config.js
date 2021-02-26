@@ -17,8 +17,7 @@ export default {
       { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
       {
         rel: "stylesheet",
-        href:
-          "https://fonts.googleapis.com/css2?family=Raleway&display=swap"
+        href: "https://fonts.googleapis.com/css2?family=Raleway&display=swap"
       }
     ]
   },
@@ -39,5 +38,11 @@ export default {
   modules: [],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {}
+  build: {},
+
+  // Configure the generation of your universal web application to a static web application.
+  generate: {
+    crawler: false,
+    fallback: true
+  }
 };
