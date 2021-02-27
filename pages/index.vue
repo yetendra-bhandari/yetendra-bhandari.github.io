@@ -9,7 +9,9 @@
         alt="Yetendra Bhandari"
         class="mt-12 mx-auto h-48 w-48 rounded-full"
       />
-      <h2 class="mt-12 text-4xl sm:text-5xl text-center leading-tight">
+      <h2
+        class="mt-12 text-4xl sm:text-5xl text-center leading-tight sm:leading-tight"
+      >
         I develop frontend and backend web-applications using
         <a
           class="hover:underline focus:underline"
@@ -17,14 +19,28 @@
           target="_blank"
           title="Vue"
           >Vue</a
-        >
-        and
+        >,
         <a
           class="hover:underline focus:underline"
           href="https://reactjs.org/"
           target="_blank"
           title="React"
-          >React
+          >React</a
+        >,
+        <a
+          class="hover:underline focus:underline"
+          href="https://www.djangoproject.com/"
+          target="_blank"
+          title="Django"
+          >Django</a
+        >
+        and
+        <a
+          class="hover:underline focus:underline"
+          href="https://expressjs.com/"
+          target="_blank"
+          title="Express"
+          >Express
         </a>
       </h2>
       <nav class="mt-12 flex flex-wrap justify-center gap-4">
