@@ -1,10 +1,15 @@
 <template>
-  <main>
-    <section class="mt-8 sm:mt-16 lg:mt-24 flex flex-col justify-center">
+  <main class="my-8 sm:my-16 lg:my-24">
+    <section>
       <h1 class="text-7xl sm:text-8xl font-bold text-center">
         Hello, I'm Yetendra
       </h1>
-      <h2 class="mt-10 text-4xl sm:text-5xl text-center leading-tight">
+      <img
+        src="~/assets/images/profile.jpg"
+        alt="Yetendra Bhandari"
+        class="mt-12 mx-auto h-48 w-48 rounded-full"
+      />
+      <h2 class="mt-12 text-4xl sm:text-5xl text-center leading-tight">
         I develop frontend and backend web-applications using
         <a
           class="hover:underline focus:underline"
@@ -22,7 +27,7 @@
           >React
         </a>
       </h2>
-      <nav class="mt-16 flex flex-wrap justify-center gap-4">
+      <nav class="mt-12 flex flex-wrap justify-center gap-4">
         <a
           href="/Yetendra-Bhandari-Resume.pdf"
           target="_blank"
@@ -39,11 +44,11 @@
         </a>
       </nav>
     </section>
-    <section class="mt-20">
+    <section class="mt-24">
       <h3 class="text-4xl sm:text-5xl text-center">
         Check Out Some Of My Work
       </h3>
-      <nav class="my-10 flex flex-wrap justify-center gap-4">
+      <nav class="mt-12 flex flex-wrap justify-center gap-4">
         <a
           href="https://github.com/yetendra-bhandari"
           target="_blank"
