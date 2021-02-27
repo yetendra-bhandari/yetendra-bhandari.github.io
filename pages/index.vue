@@ -48,7 +48,7 @@
           href="/Yetendra-Bhandari-Resume.pdf"
           target="_blank"
           class="p-4 border-2 rounded border-color-2 text-2xl text-text-2 hover:bg-color-2 hover:text-text-3 focus:bg-color-2 focus:text-text-3"
-          title="My Resume"
+          title="See My Resume"
           >See My Resume
         </a>
         <a
