@@ -42,7 +42,6 @@ export default {
 
   // Configure the generation of your universal web application to a static web application.
   generate: {
-    crawler: false,
-    fallback: true
+    crawler: false
   }
 };
