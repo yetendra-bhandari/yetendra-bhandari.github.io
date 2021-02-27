@@ -1,8 +1,10 @@
 <template>
   <main>
-    <section class="mt-32 flex flex-col justify-center">
-      <h1 class="text-8xl font-bold text-center">Hello, I'm Yetendra</h1>
-      <h2 class="mt-10 text-5xl text-center leading-tight">
+    <section class="mt-8 sm:mt-16 lg:mt-24 flex flex-col justify-center">
+      <h1 class="text-7xl sm:text-8xl font-bold text-center">
+        Hello, I'm Yetendra
+      </h1>
+      <h2 class="mt-10 text-4xl sm:text-5xl text-center leading-tight">
         I develop frontend and backend web-applications using
         <a
           class="hover:underline focus:underline"
@@ -26,7 +28,7 @@
           target="_blank"
           class="p-4 border-2 rounded border-color-2 text-2xl text-text-2 hover:bg-color-2 hover:text-text-3 focus:bg-color-2 focus:text-text-3"
           title="My Resume"
-          >Look At My Resume
+          >See My Resume
         </a>
         <a
           href="mailto:yetendrabhandari@gmail.com"
@@ -38,8 +40,10 @@
       </nav>
     </section>
     <section class="mt-20">
-      <h3 class="text-5xl text-center">Check Out Some Of My Work</h3>
-      <nav class="mt-10 flex flex-wrap justify-center gap-4">
+      <h3 class="text-4xl sm:text-5xl text-center">
+        Check Out Some Of My Work
+      </h3>
+      <nav class="my-10 flex flex-wrap justify-center gap-4">
         <a
           href="https://github.com/yetendra-bhandari"
           target="_blank"
@@ -47,7 +51,7 @@
           title="Github"
         >
           <svg
-            class="h-16 w-16"
+            class="h-12 w-12"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 496 512"
           >
@@ -58,13 +62,13 @@
           </svg>
         </a>
         <a
-          href="https://github.com/yetendra-bhandari"
+          href="https://dribbble.com/MontyYb"
           target="_blank"
           class="p-4 border-2 rounded border-color-2 text-2xl text-text-2 hover:bg-color-2 hover:text-text-3 focus:bg-color-2 focus:text-text-3"
-          title="Github"
+          title="Dribbble"
         >
           <svg
-            class="h-16 w-16"
+            class="h-12 w-12"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 512 512"
           >
