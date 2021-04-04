@@ -14,6 +14,7 @@
       >
         I develop frontend and backend web-applications using
         <a
+          rel="noopener noreferrer"
           class="hover:underline focus:underline"
           href="https://vuejs.org/"
           target="_blank"
@@ -21,6 +22,7 @@
           >Vue</a
         >,
         <a
+          rel="noopener noreferrer"
           class="hover:underline focus:underline"
           href="https://reactjs.org/"
           target="_blank"
@@ -28,6 +30,7 @@
           >React</a
         >,
         <a
+          rel="noopener noreferrer"
           class="hover:underline focus:underline"
           href="https://www.djangoproject.com/"
           target="_blank"
@@ -36,6 +39,7 @@
         >
         and
         <a
+          rel="noopener noreferrer"
           class="hover:underline focus:underline"
           href="https://expressjs.com/"
           target="_blank"
@@ -45,6 +49,7 @@
       </h2>
       <nav class="mt-12 flex flex-wrap justify-center gap-4">
         <a
+          rel="noopener noreferrer"
           href="/Yetendra-Bhandari-Resume.pdf"
           target="_blank"
           class="p-4 border-2 rounded border-color-2 text-2xl text-text-2 hover:bg-color-2 hover:text-text-3 focus:bg-color-2 focus:text-text-3"
@@ -52,6 +57,7 @@
           >See My Resume
         </a>
         <a
+          rel="noopener noreferrer"
           href="mailto:yetendrabhandari@gmail.com"
           target="_blank"
           class="p-4 border-2 rounded border-color-2 text-2xl text-text-2 hover:bg-color-2 hover:text-text-3 focus:bg-color-2 focus:text-text-3"
@@ -66,6 +72,7 @@
       </h3>
       <nav class="mt-12 flex flex-wrap justify-center gap-4">
         <a
+          rel="noopener noreferrer"
           href="https://github.com/yetendra-bhandari"
           target="_blank"
           class="p-4 border-2 rounded border-color-2 text-2xl text-text-2 hover:bg-color-2 hover:text-text-3 focus:bg-color-2 focus:text-text-3"
@@ -83,6 +90,7 @@
           </svg>
         </a>
         <a
+          rel="noopener noreferrer"
           href="https://dribbble.com/MontyYb"
           target="_blank"
           class="p-4 border-2 rounded border-color-2 text-2xl text-text-2 hover:bg-color-2 hover:text-text-3 focus:bg-color-2 focus:text-text-3"

@@ -6,6 +6,7 @@
     <header class="p-4 flex justify-between">
       <nav>
         <a
+          rel="noopener noreferrer"
           href="https://thesourceproject.github.io/"
           title="The Source Project"
           target="_blank"
