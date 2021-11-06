@@ -1,32 +1,19 @@
 <template>
   <div
     :class="theme"
-    class="min-h-screen flex flex-col bg-color-1 transition-colors font-body text-text-1"
+    class="
+      min-h-screen
+      flex flex-col
+      bg-color-1
+      transition-colors
+      font-body
+      text-text-1
+    "
   >
-    <header class="p-4 flex justify-between">
-      <nav>
-        <a
-          rel="noopener noreferrer"
-          href="https://thesourceproject.github.io/"
-          title="The Source Project"
-          target="_blank"
-        >
-          <img
-            v-if="theme == 'light'"
-            src="~/assets/images/thesourceproject.png"
-            alt="The Source Project"
-            class="h-10 w-10"
-          /><img
-            v-else
-            src="~/assets/images/thesourceproject-alt.png"
-            alt="The Source Project"
-            class="h-10 w-10"
-          />
-        </a>
-      </nav>
+    <header class="p-4 flex">
       <button
         @click="changeTheme"
-        class="focus:outline-none"
+        class="ml-auto focus:outline-none"
         title="Change Theme"
       >
         <svg

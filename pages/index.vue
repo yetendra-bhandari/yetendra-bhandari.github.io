@@ -10,7 +10,14 @@
         class="mt-12 mx-auto h-48 w-48 rounded-full"
       />
       <h2
-        class="mt-12 text-4xl sm:text-5xl text-center leading-tight sm:leading-tight"
+        class="
+          mt-12
+          text-4xl
+          sm:text-5xl
+          text-center
+          leading-tight
+          sm:leading-tight
+        "
       >
         I develop frontend and backend web-applications using
         <a
@@ -52,7 +59,15 @@
           rel="noopener noreferrer"
           href="/Yetendra-Bhandari-Resume.pdf"
           target="_blank"
-          class="p-4 border-2 rounded border-color-2 text-2xl text-text-2 hover:bg-color-2 hover:text-text-3 focus:bg-color-2 focus:text-text-3"
+          class="
+            p-4
+            border-2
+            rounded
+            border-color-2
+            text-2xl text-text-2
+            hover:bg-color-2 hover:text-text-3
+            focus:bg-color-2 focus:text-text-3
+          "
           title="See My Resume"
           >See My Resume
         </a>
@@ -60,7 +75,15 @@
           rel="noopener noreferrer"
           href="mailto:yetendrabhandari@gmail.com"
           target="_blank"
-          class="p-4 border-2 rounded border-color-2 text-2xl text-text-2 hover:bg-color-2 hover:text-text-3 focus:bg-color-2 focus:text-text-3"
+          class="
+            p-4
+            border-2
+            rounded
+            border-color-2
+            text-2xl text-text-2
+            hover:bg-color-2 hover:text-text-3
+            focus:bg-color-2 focus:text-text-3
+          "
           title="Talk To Me"
           >Talk To Me
         </a>
@@ -75,7 +98,15 @@
           rel="noopener noreferrer"
           href="https://github.com/yetendra-bhandari"
           target="_blank"
-          class="p-4 border-2 rounded border-color-2 text-2xl text-text-2 hover:bg-color-2 hover:text-text-3 focus:bg-color-2 focus:text-text-3"
+          class="
+            p-4
+            border-2
+            rounded
+            border-color-2
+            text-2xl text-text-2
+            hover:bg-color-2 hover:text-text-3
+            focus:bg-color-2 focus:text-text-3
+          "
           title="Github"
         >
           <svg
@@ -93,7 +124,15 @@
           rel="noopener noreferrer"
           href="https://dribbble.com/MontyYb"
           target="_blank"
-          class="p-4 border-2 rounded border-color-2 text-2xl text-text-2 hover:bg-color-2 hover:text-text-3 focus:bg-color-2 focus:text-text-3"
+          class="
+            p-4
+            border-2
+            rounded
+            border-color-2
+            text-2xl text-text-2
+            hover:bg-color-2 hover:text-text-3
+            focus:bg-color-2 focus:text-text-3
+          "
           title="Dribbble"
         >
           <svg

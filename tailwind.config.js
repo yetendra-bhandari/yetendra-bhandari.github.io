@@ -4,13 +4,13 @@ module.exports = {
     "./layouts/**/*.vue",
     "./pages/**/*.vue",
     "./plugins/**/*.{js,ts}",
-    "./nuxt.config.{js,ts}"
+    "./nuxt.config.{js,ts}",
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
       fontFamily: {
-        body: ["var(--font-body)", "sans-serif"]
+        body: ["var(--font-body)", "sans-serif"],
       },
       colors: {
         "color-1": "var(--color-1)",
@@ -20,12 +20,12 @@ module.exports = {
         "text-2": "var(--text-2)",
         "text-3": "var(--text-3)",
         "text-4": "var(--text-4)",
-        "text-5": "var(--text-5)"
-      }
-    }
+        "text-5": "var(--text-5)",
+      },
+    },
   },
   variants: {
-    extend: {}
+    extend: {},
   },
-  plugins: []
+  plugins: [],
 };
